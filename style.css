@@ -1,0 +1,20 @@
+
+.maior{
+   font-size:50px ;
+}
+.top{
+    margin-top: 10px ;
+}
+.grande{
+    font-size: 1.75rem;
+}
+.pequeno{
+    border-radius: 50%;
+    max-width:60px;
+    max-height:40px;
+    width: auto;
+    height: auto;
+}
+.esquerda{
+    margin-left: 4px;
+}
